@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Enter a number to see some Ray Lewis Dice Magic!");
+        Console.WriteLine("Enter a number to see some Ray Lewis Number Magic!");
         string stringNumber = Console.ReadLine();
         int numberMagic = int.Parse(stringNumber);
 
